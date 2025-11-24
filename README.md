@@ -43,21 +43,28 @@ Raw Data Sources → PostgreSQL Database → ETL Processing → Master Table →
 ## Dashboard Preview
 
 ### Page 1: Global Learner Analytics
-![Learner Dashboard]<img width="1100" height="620" alt="image" src="https://github.com/user-attachments/assets/42f596d4-ae6c-4336-b697-7d3764bd9191" />
+<img width="1100" height="620" alt="image" src="https://github.com/user-attachments/assets/42f596d4-ae6c-4336-b697-7d3764bd9191" />
+
 *Comprehensive view of 52.1K learners across 146 countries with engagement metrics*
 
+
 ### Page 2: Geographic Distribution
-![Geographic Dashboard]<img width="1095" height="615" alt="image" src="https://github.com/user-attachments/assets/a7cea657-c05c-4f47-b67e-ae2a7dd3a543" />
+<img width="1095" height="615" alt="image" src="https://github.com/user-attachments/assets/a7cea657-c05c-4f47-b67e-ae2a7dd3a543" />
+
 *Regional performance heatmap highlighting expansion opportunities*
 
+
 ### Page 3: Cohort Analytics
-![Cohort Dashboard]<img width="1100" height="619" alt="image" src="https://github.com/user-attachments/assets/501b8687-8e5b-44fe-8010-e3edefe0380d" />
+<img width="1100" height="619" alt="image" src="https://github.com/user-attachments/assets/501b8687-8e5b-44fe-8010-e3edefe0380d" />
 
 *Temporal trends showing cohort growth from 2022-2025*
 
+
 ### Page 4: Marketing Campaign Performance  
-![Marketing Dashboard]<img width="1095" height="617" alt="image" src="https://github.com/user-attachments/assets/d02702d6-75b4-400d-8589-e90ed3bc3d82" />
+<img width="1095" height="617" alt="image" src="https://github.com/user-attachments/assets/d02702d6-75b4-400d-8589-e90ed3bc3d82" />
+
 *Campaign ROI analysis showing 338.4K DH spending and conversion rates*
+
 
 ---
 
@@ -118,3 +125,8 @@ Raw Data Sources → PostgreSQL Database → ETL Processing → Master Table →
 **Team:** 8-member collaborative project delivery  
 **Duration:** 4 Weeks Intensive data analytics and visualization initiative  
 **Outcome:** Production-ready business intelligence solution  
+
+---
+
+**Team:** Souvik Roy, Sumaya Mateen, Sonam Sahu, Subhadip Samanta, Sonta Ramesh, Soumya Ranjan Sahoo, Sudip Deuja, Sukanta Nag Hirock
+
